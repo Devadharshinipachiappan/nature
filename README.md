@@ -3,7 +3,7 @@ A visually engaging and fully responsive website themed around nature and the en
 HTML, CSS, and JavaScript, suitable for a nature blog, environmental NGO, or eco-awareness campaign.
 
 ## 🌐 Live Demo
-(https://devadharshinipachiappan.github.io/NatureWebsite/)
+ https://devadharshinipachiappan.github.io/nature/
 
 ## Features
  Nature-themed aesthetic with calming visuals and colors
